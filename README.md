@@ -1,2 +1,2 @@
-# seco_project
-seco_project
+# web_service
+web_service
